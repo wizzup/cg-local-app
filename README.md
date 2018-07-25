@@ -1,3 +1,13 @@
+This branch is for running app on NixOS.
+
+# Instruction
+
+`run.sh` to run the app.
+
+Below are original content of README.md
+
+----
+
 # CG Local Application
 
 This application should be used together with [cg-local-ext](https://github.com/jmerle/cg-local-ext). The application watches the selected file and sends the source code to the WebExtension when the file is changed.
